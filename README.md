@@ -34,7 +34,6 @@ As I transition from data analytics to DevOps, I'm documenting everything I lear
 
 Each note typically includes:
 - The problem I encountered
-- What I tried that didn't work
 - The solution that worked
 - Why it worked (technical explanation)
 - Commands and configuration for future reference
