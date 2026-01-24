@@ -14,6 +14,9 @@ Docker containerization, troubleshooting, and configuration notes.
 ### 🐧 [linux/](./linux/)
 Linux system administration, security, and display server configuration.
 
+### ☸️ [kubernetes/](./kubernetes/)
+Kubernetes orchestration, cluster management, and deployment configurations.
+
 ## Why This Exists
 
 As I transition from data analytics to DevOps, I'm documenting everything I learn and every problem I solve. This serves as:
