@@ -6,7 +6,6 @@ metadata:
   name: mealie
   namespace: mealie
 spec:
-  loadBalancerIP: 192.168.1.112  # Add this line
   ports:
   - port: 9000
     protocol: TCP
