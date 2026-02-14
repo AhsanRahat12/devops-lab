@@ -1,0 +1,4 @@
+grafana:
+  adminUser: rahat
+  adminPassword: yourpassword
+
